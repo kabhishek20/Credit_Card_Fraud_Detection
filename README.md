@@ -10,6 +10,8 @@ A <code>**Machine Learning Project**</code> to detect the Fraud Transactions usi
 - The <code>**LogisticRegression model**</code> was trained and it reached an <code>**accuracy of 91.69%**</code>.\
 
 
-> Dataset : [Click here]()
-> iypnb file : [Click here]()
-> pickle model : [Click here]()
+> Dataset : [Click here](https://drive.google.com/file/d/1fm1BMilP065ghA5d46knxQSZ7OarQmxh/view?usp=sharing)
+
+> iypnb file : [Click here](https://github.com/kabhishek20/Credit_Card_Fraud_Detection/blob/main/Credit_Card_Fraud_Detection.ipynb)
+
+> pickle model : [Click here](https://github.com/kabhishek20/Credit_Card_Fraud_Detection/blob/main/Credit_Card_Fraud_Detection_Model.pickle)
